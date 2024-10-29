@@ -44,7 +44,7 @@ This application analyzes customer feedback, identifying sentiment and core reas
 
 ## 🛠️ Project Structure
 
-- **/Models** - Defines data models, including feedback structure.
+- **/Models** - Defines data models.
 - **/Data** - SQL Server database configuration and migrations.
 - **/Endpoints** - API endpoints.
 
